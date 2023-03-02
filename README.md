@@ -4,14 +4,14 @@ I'm a technology enthusiast with a fervor for coding. My journey into programmin
 <a  href="https://www.linkedin.com/in/calebnyachwaya/" target="_blank" ><img  src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black">
 </a>
 
-** Tools and Languages*
+** Tools and Languages**
 ## 
-<details>
+<>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
-</details>
+</>
 ##
 
 
