@@ -1,6 +1,9 @@
-### Hi 👋, I’m Caleb Nyachwaya
-I'm a technology enthusiast with a fervor for coding. My journey into programming began when I joined Hoberton School to gain practical skills in various programming languages. It has been an incredible experience so far. My focus lies in front-end development, and I hope to leverage this platform to enhance our programming knowledge together.
-<br><br><br>
+### Hi 👋,
+My name is Caleb Nyachwaya, and I'm on a mission to become the ultimate coding ninja 🥷
+
+💻 I started my career as a system administrator, but my passion for coding pushed me to take a leap of faith and dive headfirst into the coding world. Currently, I'm enrolled in a coding course at Hoberton School, and the experience has been nothing short of amazing 🤩
+
+🤓 I'm always on the lookout for new challenges and exciting opportunities in the tech industry. If you're interested in chatting about the latest tech trends, or if you just want to connect and create something amazing together, feel free to drop me a line!
 
 ## 
 **Tools and Languages** <br><br>
@@ -23,6 +26,11 @@ I'm a technology enthusiast with a fervor for coding. My journey into programmin
 
 Here are some ideas to get you started:
 
+
+### Hi 👋, I’m Caleb Nyachwaya
+I'm a technology enthusiast with a fervor for coding. My journey into programming began when I joined Hoberton School to gain practical skills in various programming languages. It has been an incredible experience so far. My focus lies in front-end development, and I hope to leverage this platform to enhance our programming knowledge together.
+<br><br><br>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -31,4 +39,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
