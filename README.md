@@ -1,8 +1,8 @@
 ### Hi 👋, I’m Caleb Nyachwaya
 I'm a software engineering student at ALX Africa 
 
-You can find me here:
-<a  href="https://www.linkedin.com/in/calebnyachwaya/" target="_blank" ><img  src="https://icons8.com/icon/DYoTRhf8VVC1/linkedin>
+
+<a  href="https://www.linkedin.com/in/calebnyachwaya/" target="_blank" ><img  src="https://icons8.com/icon/DYoTRhf8VVC1/linkedin">
 </a>
 
 <!--
