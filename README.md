@@ -4,7 +4,7 @@ I'm a software engineering student at ALX Africa
 <a  href="https://www.linkedin.com/in/calebnyachwaya/" target="_blank" ><img  src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black">
 </a>
 
-
+---
 #### Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
