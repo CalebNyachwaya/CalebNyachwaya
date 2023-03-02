@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋, I’m Caleb Nyachwaya
+I'm a software engineering student at ALX Africa 
+
+You can find me here:
+<a  href="https://www.linkedin.com/in/calebnyachwaya/" target="_blank" ><img  src="https://icons8.com/icon/DYoTRhf8VVC1/linkedin
+</a>
+
 
 <!--
 **CalebNyachwaya/CalebNyachwaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
