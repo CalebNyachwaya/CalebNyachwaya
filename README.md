@@ -1,10 +1,6 @@
 ### Hi 👋, I’m Caleb Nyachwaya
 I'm a technology enthusiast with a fervor for coding. My journey into programming began when I joined Hoberton School to gain practical skills in various programming languages. It has been an incredible experience so far. My focus lies in front-end development, and I hope to leverage this platform to enhance our programming knowledge together.
-
-<!-- <a  href="https://www.linkedin.com/in/calebnyachwaya/" target="_blank" ><img  src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black">
-</a>
--->
-<br><br>
+<br><br><br>
 
 ## 
 **Tools and Languages** <br><br>
