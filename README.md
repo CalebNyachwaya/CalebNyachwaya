@@ -2,7 +2,7 @@
 I'm a software engineering student at ALX Africa 
 
 
-<a  href="https://www.linkedin.com/in/calebnyachwaya/" target="_blank" ><img  src="https://icons8.com/icon/DYoTRhf8VVC1/linkedin">
+<a  href="https://www.linkedin.com/in/calebnyachwaya/" target="_blank" ><img  src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black">
 </a>
 
 <!--
