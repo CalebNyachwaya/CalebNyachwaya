@@ -1,7 +1,7 @@
 ### Hi there 👋,
 My name is Caleb Nyachwaya, and I'm on a mission to become an exceptional full stack developer
 
-I started my career as a system administrator, but my passion for coding pushed me to take a leap of faith and dive into the coding world. Currently, I'm enrolled in a coding course at Hoberton School, and the experience has been nothing short of amazing 🤩
+I started my career as a system administrator, but my passion for coding pushed me to take a leap of faith and dive into the coding world. Currently, I'm enrolled in a software engineering program at ALX Africa, and the experience has been nothing short of amazing 🤩
 
 🤓 I'm always on the lookout for new challenges and exciting opportunities in the tech industry. If you're interested in chatting about the latest tech trends, or if you just want to connect and create something amazing together, feel free to drop me a line!
 <br><br>
