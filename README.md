@@ -18,7 +18,6 @@ I started my career as a system administrator, but my passion for coding pushed 
 <br><br>
 
 
-## 
 **IDEs** <br><br>
 <a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
