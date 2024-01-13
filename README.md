@@ -35,7 +35,7 @@ I started my career as a system administrator, but my passion for coding pushed 
 
 ## 
 **Let's connect** <br><br>
-<a  href="https://www.linkedin.com/in/calebnyachwaya/" target="_blank" ><img  src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"  data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"  style="max-width:100%;"></a> 
+<a  href="https://www.linkedin.com/in/calebnyachwaya/" target="_blank" ><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"  style="max-width:100%;"></a> 
 <br><br>
 
 
